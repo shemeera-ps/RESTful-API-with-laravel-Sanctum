@@ -5,11 +5,11 @@ Here is a simple and secure REST API build in Laravel 10 with the help of the La
 The application has also been undergone step by step  testing  using the Postman testing tool.
 
 <p align="center">
-  <img src="travel/public/images/screenshot1.png" alt="GitHub Logo">
+  <img src="public/images/screenshot1.png" alt="GitHub Logo">
 </p>
 
 <p align="center">
-  <img src="travel/public/images/screenshot2.png" alt="GitHub Logo">
+  <img src="public/images/screenshot2.png" alt="GitHub Logo">
 </p>
 
 
